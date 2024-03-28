@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Moonerri/Rize/main/Tr
 
 ## Game Passes
 - [Thank you](https://www.roblox.com/game-pass/741982277/Thank-you)
-- [Thank you pro](https://www.roblox.com/game-pass/741930322/Thank-you-pro)
-- [Pro max plus](https://www.roblox.com/game-pass/742271359/Pro-max-plus)
+- [Thank you Pro](https://www.roblox.com/game-pass/741930322/Thank-you-pro)
+- [Pro Max Plus](https://www.roblox.com/game-pass/742271359/Pro-max-plus)
 
 Like my project? Consider supporting it by purchasing the game passes above!
