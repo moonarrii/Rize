@@ -3,7 +3,7 @@
 Rize True V4 is an all-in-one Roblox developer script. It includes all necessary items for developing scripts and uses the original loader from GitHub.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Moonerri/Rize/main/Rize%20True%20V4.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Moonerri/Rize/main/TrueV4.lua"))()
 ```
 
 ## Game Passes
