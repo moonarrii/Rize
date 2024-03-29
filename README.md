@@ -1,4 +1,4 @@
-# Rize True V4[STILL IN LATE-DEVELOPMENT
+# Rize True V4[STILL IN LATE-DEVELOPMENT]
 
 Rize True V4 is an all-in-one Roblox developer script. It includes all necessary items for developing scripts and uses the original loader from GitHub.
 
